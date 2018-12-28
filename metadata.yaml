@@ -1,5 +1,8 @@
 _repo: The-Thirteen-Names-of-the-First-Patriarchs-considered-as-figurative-of-the-Progressive-Influe__58554
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58554-h/images/cover.jpg
 creator:
   author:
     agent_name: Church, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '49727'
     url: http://www.gutenberg.org/2009/agents/49727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58554#The-Thirteen-Names-of-the-First-Patriarchs-considered-as-figurative-of-the-Progressive-Influe_
 gutenberg_issued: '2018-12-27'
 gutenberg_type: Text
 identifiers:
